@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: © 2025 KimJuhyeong95 <bisyop@naver.com>
+# SPDX-License-Identifier: MIT
+
 import requests
 
 # 사용자로부터 base URL (서버 IP 또는 도메인) 입력 받기
