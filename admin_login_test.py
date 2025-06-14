@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: © 2025 KimJuhyeong95 <bisyop@naver.com>
+# SPDX-License-Identifier: MIT
+
 import requests
 from requests.auth import HTTPBasicAuth
 
