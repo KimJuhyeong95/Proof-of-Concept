@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2025 KimJuhyeong95 <bisyop@naver.com>
+# SPDX-FileCopyrightText: © 2024 KimJuhyeong95 <bisyop@naver.com>
 # SPDX-License-Identifier: MIT
 
 import requests
